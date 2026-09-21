@@ -1,0 +1,8 @@
+version: "0.1.6-alpha.2"
+files:
+  - url: "https://github.com/DaiKang777/DSH_Studio/releases/download/v0.1.6-alpha.2-community.2/Harness-Community-Personal-0.1.6-alpha.2-Mirrors-Icon-x64-Setup.exe"
+    sha512: j5BIjY7wCl6sd74xQavy31mV+KSDhXjqt7kN4dzvoO/cHWfHO5Jex/fopVGKfReEGqNMYawhC2/X4ta0Q16cnA==
+    size: 307458479
+path: "https://github.com/DaiKang777/DSH_Studio/releases/download/v0.1.6-alpha.2-community.2/Harness-Community-Personal-0.1.6-alpha.2-Mirrors-Icon-x64-Setup.exe"
+sha512: j5BIjY7wCl6sd74xQavy31mV+KSDhXjqt7kN4dzvoO/cHWfHO5Jex/fopVGKfReEGqNMYawhC2/X4ta0Q16cnA==
+releaseDate: "2026-09-21T10:02:42.135Z"
